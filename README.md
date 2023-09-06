@@ -12,23 +12,23 @@ Before you begin, ensure you have met the following requirements:
   - Requests (`requests`)
 
 You can install these libraries using pip:
-```bash
+
 pip install beautifulsoup4 requests
 
 
 Usage
 Clone this repository to your local machine:
-bash
-Copy code
-git clone https://github.com/your-username/web-scraper.git
+
+    git clone https://github.com/your-username/web-scraper.git
+
+
 Navigate to the project directory:
-bash
-Copy code
-cd web-scraper
+
+    cd web-scraper
+
 Run the script by executing the following command and providing the URL you want to scrape when prompted:
-bash
-Copy code
-python scraper.py
+
+    python scraper.py
 Follow the prompts to enter the URL you want to scrape.
 
 The script will retrieve the HTML content of the webpage and extract specific data, such as links, text, or other elements, depending on your customization.
