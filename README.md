@@ -12,8 +12,8 @@ Before you begin, ensure you have met the following requirements:
   - Requests (`requests`)
 
 You can install these libraries using pip:
-
-pip install beautifulsoup4 requests
+    pip install requests
+    pip install beautifulsoup4 requests
 
 
 Usage
